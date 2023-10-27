@@ -7314,10 +7314,10 @@
   {
     "name": "Tachiyomi: مانجا ليك",
     "pkg": "eu.kanade.tachiyomi.extension.ar.mangalek",
-    "apk": "tachiyomi-ar.mangalek-v1.4.34.apk",
+    "apk": "tachiyomi-ar.mangalek-v1.4.35.apk",
     "lang": "ar",
-    "code": 34,
-    "version": "1.4.34",
+    "code": 35,
+    "version": "1.4.35",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -7503,10 +7503,10 @@
   {
     "name": "Tachiyomi: MangaSwat",
     "pkg": "eu.kanade.tachiyomi.extension.ar.mangaswat",
-    "apk": "tachiyomi-ar.mangaswat-v1.4.41.apk",
+    "apk": "tachiyomi-ar.mangaswat-v1.4.42.apk",
     "lang": "ar",
-    "code": 41,
-    "version": "1.4.41",
+    "code": 42,
+    "version": "1.4.42",
     "nsfw": 0,
     "hasReadme": 1,
     "hasChangelog": 0,
@@ -7515,7 +7515,7 @@
         "name": "MangaSwat",
         "lang": "ar",
         "id": "264168699090292138",
-        "baseUrl": "https://swatmanga.co",
+        "baseUrl": "https://goldragon.me",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -24856,27 +24856,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Golden Mangás",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.goldenmangas",
-    "apk": "tachiyomi-pt.goldenmangas-v1.4.22.apk",
-    "lang": "pt-BR",
-    "code": 22,
-    "version": "1.4.22",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Golden Mangás",
-        "lang": "pt-BR",
-        "id": "6858719406079923084",
-        "baseUrl": "https://www.goldenmanga.top",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Goof Fansub",
     "pkg": "eu.kanade.tachiyomi.extension.pt.gooffansub",
     "apk": "tachiyomi-pt.gooffansub-v1.4.31.apk",
@@ -25152,10 +25131,10 @@
   {
     "name": "Tachiyomi: Ler Mangá",
     "pkg": "eu.kanade.tachiyomi.extension.pt.lermanga",
-    "apk": "tachiyomi-pt.lermanga-v1.4.1.apk",
+    "apk": "tachiyomi-pt.lermanga-v1.4.2.apk",
     "lang": "pt-BR",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -25418,48 +25397,6 @@
         "id": "141171756957474060",
         "baseUrl": "https://mundohentaioficial.com",
         "versionId": 2,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Mundo Mangá-Kun",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.mundomangakun",
-    "apk": "tachiyomi-pt.mundomangakun-v1.4.27.apk",
-    "lang": "pt-BR",
-    "code": 27,
-    "version": "1.4.27",
-    "nsfw": 1,
-    "hasReadme": 1,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Mundo Mangá-Kun",
-        "lang": "pt-BR",
-        "id": "39298162968728051",
-        "baseUrl": "https://mundomangakun.com.br",
-        "versionId": 2,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Mundo Webtoon",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.mundowebtoon",
-    "apk": "tachiyomi-pt.mundowebtoon-v1.4.8.apk",
-    "lang": "pt-BR",
-    "code": 8,
-    "version": "1.4.8",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Mundo Webtoon",
-        "lang": "pt-BR",
-        "id": "7352666952210577708",
-        "baseUrl": "https://mundowebtoon.com",
-        "versionId": 1,
         "hasCloudflare": 1
       }
     ]
