@@ -4921,10 +4921,10 @@
   {
     "name": "Tachiyomi: Manhwa-raw",
     "pkg": "eu.kanade.tachiyomi.extension.all.manhwadashraw",
-    "apk": "tachiyomi-all.manhwadashraw-v1.4.31.apk",
+    "apk": "tachiyomi-all.manhwadashraw-v1.4.32.apk",
     "lang": "all",
-    "code": 31,
-    "version": "1.4.31",
+    "code": 32,
+    "version": "1.4.32",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -18673,21 +18673,21 @@
   {
     "name": "Tachiyomi: AiYuManga",
     "pkg": "eu.kanade.tachiyomi.extension.es.aiyumanga",
-    "apk": "tachiyomi-es.aiyumanga-v1.4.34.apk",
+    "apk": "tachiyomi-es.aiyumanga-v1.4.35.apk",
     "lang": "es",
-    "code": 34,
-    "version": "1.4.34",
+    "code": 35,
+    "version": "1.4.35",
     "nsfw": 0,
-    "hasReadme": 0,
+    "hasReadme": 1,
     "hasChangelog": 0,
     "sources": [
       {
         "name": "AiYuManga",
         "lang": "es",
-        "id": "7944017182914349835",
-        "baseUrl": "https://www.aiyumanhua.com",
-        "versionId": 2,
-        "hasCloudflare": 0
+        "id": "431300335605593183",
+        "baseUrl": "https://aiyumanhua.com",
+        "versionId": 3,
+        "hasCloudflare": 1
       }
     ]
   },
@@ -19406,6 +19406,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: Mangaland",
+    "pkg": "eu.kanade.tachiyomi.extension.es.mangaland",
+    "apk": "tachiyomi-es.mangaland-v1.4.31.apk",
+    "lang": "es",
+    "code": 31,
+    "version": "1.4.31",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Mangaland",
+        "lang": "es",
+        "id": "5631403120148991020",
+        "baseUrl": "https://mangaland.net",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: MangaOni",
     "pkg": "eu.kanade.tachiyomi.extension.es.mangamx",
     "apk": "tachiyomi-es.mangamx-v1.4.15.apk",
@@ -19513,10 +19534,10 @@
   {
     "name": "Tachiyomi: Manhwa-Latino",
     "pkg": "eu.kanade.tachiyomi.extension.es.manhwalatino",
-    "apk": "tachiyomi-es.manhwalatino-v1.4.36.apk",
+    "apk": "tachiyomi-es.manhwalatino-v1.4.37.apk",
     "lang": "es",
-    "code": 36,
-    "version": "1.4.36",
+    "code": 37,
+    "version": "1.4.37",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19786,10 +19807,10 @@
   {
     "name": "Tachiyomi: SamuraiScan",
     "pkg": "eu.kanade.tachiyomi.extension.es.samuraiscan",
-    "apk": "tachiyomi-es.samuraiscan-v1.4.33.apk",
+    "apk": "tachiyomi-es.samuraiscan-v1.4.34.apk",
     "lang": "es",
-    "code": 33,
-    "version": "1.4.33",
+    "code": 34,
+    "version": "1.4.34",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19798,7 +19819,7 @@
         "name": "SamuraiScan",
         "lang": "es",
         "id": "4890948689319085079",
-        "baseUrl": "https://samuraiscan.org",
+        "baseUrl": "https://samuraiscan.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -19933,10 +19954,10 @@
   {
     "name": "Tachiyomi: Taurus Fansub",
     "pkg": "eu.kanade.tachiyomi.extension.es.taurusfansub",
-    "apk": "tachiyomi-es.taurusfansub-v1.4.31.apk",
+    "apk": "tachiyomi-es.taurusfansub-v1.4.32.apk",
     "lang": "es",
-    "code": 31,
-    "version": "1.4.31",
+    "code": 32,
+    "version": "1.4.32",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19945,7 +19966,7 @@
         "name": "Taurus Fansub",
         "lang": "es",
         "id": "5157867187592331768",
-        "baseUrl": "https://taurusfansub.com",
+        "baseUrl": "https://taurusmanga.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -20416,6 +20437,27 @@
         "lang": "fr",
         "id": "267710359229814456",
         "baseUrl": "https://www.furyosociety.com/",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Glory Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.fr.gloryscans",
+    "apk": "tachiyomi-fr.gloryscans-v1.4.27.apk",
+    "lang": "fr",
+    "code": 27,
+    "version": "1.4.27",
+    "nsfw": 0,
+    "hasReadme": 1,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Glory Scans",
+        "lang": "fr",
+        "id": "7575883729326516715",
+        "baseUrl": "https://gloryscans.fr",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -24085,7 +24127,7 @@
         "name": "ManaToki",
         "lang": "ko",
         "id": "2526381983439079467",
-        "baseUrl": "https://manatoki312.net",
+        "baseUrl": "https://manatoki313.net",
         "versionId": 1,
         "hasCloudflare": 1
       },
@@ -24093,7 +24135,7 @@
         "name": "NewToki",
         "lang": "ko",
         "id": "1977818283770282459",
-        "baseUrl": "https://newtoki312.com",
+        "baseUrl": "https://newtoki313.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
