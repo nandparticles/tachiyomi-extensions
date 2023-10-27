@@ -6239,6 +6239,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: Taddy INK (Webtoons)",
+    "pkg": "eu.kanade.tachiyomi.extension.all.taddyink",
+    "apk": "tachiyomi-all.taddyink-v1.4.1.apk",
+    "lang": "all",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Taddy INK (Webtoons)",
+        "lang": "all",
+        "id": "2332326521515456967",
+        "baseUrl": "https://taddy.org",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Tappytoon",
     "pkg": "eu.kanade.tachiyomi.extension.all.tappytoon",
     "apk": "tachiyomi-all.tappytoon-v1.4.7.apk",
@@ -13730,10 +13751,10 @@
   {
     "name": "Tachiyomi: Manga Weebs",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangaweebs",
-    "apk": "tachiyomi-en.mangaweebs-v1.4.38.apk",
+    "apk": "tachiyomi-en.mangaweebs-v1.4.39.apk",
     "lang": "en",
-    "code": 38,
-    "version": "1.4.38",
+    "code": 39,
+    "version": "1.4.39",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
