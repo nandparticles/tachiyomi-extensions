@@ -7,8 +7,12 @@ Tachiyomi is a free and open source manga reader for Android 6.0 and above.
 
 This repository contains the available extension catalogues for the [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi) app.
 
+# How to add the repo
+
+you can add the repo by going to settings ->browse ->Extension repo -> + -> copy and past this link(https://raw.githubusercontent.com/ahmedziyaanmuhamed/tachiyomi-extensions/repo/index.min.json)
+
 # Usage
-Add the repo by going to settings ->browse ->Extension repo -> + -> copy and past this link(https://raw.githubusercontent.com/ahmedziyaanmuhamed/tachiyomi-extensions/repo/index.min.json)
+
 Extension sources can be downloaded, installed, and uninstalled via the main Tachiyomi app. They are installed and uninstalled like regular apps, in `.apk` format.
 
 ## Downloads
