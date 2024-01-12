@@ -1,6 +1,6 @@
 | Build | Support Server |
 |-------|---------|
-| [![CI](https://github.com/tachiyomiorg/tachiyomi-extensions/workflows/CI/badge.svg?event=push)](https://github.com/tachiyomiorg/tachiyomi-extensions/actions/workflows/build_push.yml) |
+| [![CI](https://github.com/tachiyomiorg/tachiyomi-extensions/workflows/CI/badge.svg?event=push)](https://github.com/ahmedziyaanmuhamed/tachiyomi-extensions/actions/workflows/build_push.yml) |
 
 # ![app icon](./.github/readme-images/app-icon.png)Tachiyomi Extensions
 Tachiyomi is a free and open source manga reader for Android 6.0 and above.
@@ -13,7 +13,7 @@ Extension sources can be downloaded, installed, and uninstalled via the main Tac
 
 ## Downloads
 
-If you prefer to directly download the APK files, they are available via https://tachiyomi.org/extensions/ or directly in this GitHub repository in the [`repo` branch](https://github.com/tachiyomiorg/tachiyomi-extensions/tree/repo/apk).
+If you prefer to directly download the APK files, they are available via https://tachiyomi.org/extensions/ or directly in this GitHub repository in the [`repo` branch](https://github.com/ahmedziyaanmuhamed/tachiyomi-extensions/tree/repo/apk).
 
 # Requests
 
@@ -23,7 +23,7 @@ Source requests here are meant as up-for-grabs for any developer, thus it's impo
 
 Contributions are welcome!
 
-Check out the repo's [issue backlog](https://github.com/tachiyomiorg/tachiyomi-extensions/issues) for source requests and bug reports.
+Check out the repo's [issue backlog](https://github.com/ahmedziyaanmuhamed/tachiyomi-extensions/issues) for source requests and bug reports.
 
 To get started with development, see [CONTRIBUTING.md](./CONTRIBUTING.md).
 
