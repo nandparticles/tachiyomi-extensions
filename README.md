@@ -9,7 +9,7 @@ This repository contains the available extension catalogues for the [Tachiyomi](
 
 # How to add the repo
 
-you can add the repo by going to settings ->browse ->Extension repo -> + -> copy and past this link(https://raw.githubusercontent.com/ahmedziyaanmuhamed/tachiyomi-extensions/repo/index.min.json)
+[tap the highlighted lin](https://raw.githubusercontent.com/ahmedziyaanmuhamed/tachiyomi-extensions/repo/index.min.json)
 
 # Usage
 
